@@ -40,30 +40,30 @@ Follow these steps to get the project up and running on your local machine.
 
 ### Steps
 
-1.  **Clone the repository:**
+1. **Clone the repository:**
 
-    ```bash
-    git clone <repository-url> # Replace with your actual repository URL
-    cd popx-user-management-system
-    ```
+   ```bash
+   git clone https://github.com/Push4ck/PopX
+   cd PopX
+   ```
 
-2.  **Install dependencies:**
+2. **Install dependencies:**
 
-    ```bash
-    npm install
-    # OR
-    yarn install
-    ```
+   ```bash
+   npm install
+   # OR
+   yarn install
+   ```
 
-3.  **Start the development server:**
+3. **Start the development server:**
 
-    ```bash
-    npm start
-    # OR
-    yarn start
-    ```
+   ```bash
+   npm start
+   # OR
+   yarn start
+   ```
 
-    The application will open in your default web browser at `http://localhost:3000`.
+   The application will open in your default web browser at `http://localhost:3000`.
 
 ---
 
