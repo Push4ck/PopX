@@ -45,7 +45,7 @@ const ProfilePage = () => {
 
   return (
     <>
-      <div className="max-w-md mx-auto mt-10 bg-white shadow rounded border">
+      <div className="max-w-md mx-auto mt-10 border">
         <div className="p-4 border-b">
           <h2 className="text-lg font-semibold">Your Profile</h2>
         </div>
